@@ -13,6 +13,7 @@ Parameters:
     None. 
 	  This stored procedure does not accept any parameters or return any values.
 
+Database: PostgreSQL
 Usage Example:
     call silver.load_silver();  <- PostgreSQL
 ===============================================================================
